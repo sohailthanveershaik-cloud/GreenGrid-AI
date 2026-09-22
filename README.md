@@ -122,9 +122,17 @@ localhost:6379
 python src/Main.py
 ```
 
+### 5. Dataset
+
+The project uses a large-scale building energy and environmental dataset for carbon-emission reduction prediction.
+The datasets contain 150,000+ records and multiple building, environmental, and energy-related parameters.
+The original dataset is not included in this repository due to its size. When using the application, select the required CSV dataset through the GUI's dataset upload option.
+
 ## Future Improvements
 
 - Improve the proposed Neuro-Tree Fusion implementation.
 - Optimize model training and prediction performance.
 - Enhance the graphical user interface.
 - Integrate more scalable deployment options.
+
+> **Note:** Pre-trained model files and the original dataset are not included in this repository due to their file size. Models can be generated through the training workflow using the required dataset.
