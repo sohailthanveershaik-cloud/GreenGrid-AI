@@ -104,7 +104,7 @@ GreenGrid-AI/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/sohailthanveersk/GreenGrid-AI.git
+git clone https://github.com/sohailthanveersk-cloud/GreenGrid-AI.git
 cd GreenGrid-AI
 ```
 
